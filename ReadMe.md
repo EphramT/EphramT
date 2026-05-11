@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Ephram Thompson and i am currently an undergrad CS student at JMU. 
+Hello, I am Ephram Thompson and i am currently junior CS student at JMU. I am a TA and in the Unix Users Group at JMU.
 
 
 ## 🌐 Socials:
